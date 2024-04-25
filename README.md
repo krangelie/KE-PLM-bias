@@ -1,4 +1,4 @@
-# KE-PLM-bias
+# Knowledge-Enhanced Language Models Are Not Bias-Proof
 
 Analysis scripts and data from the paper "Knowledge-Enhanced Language Models Are Not Bias-Proof: Situated Knowledge and Epistemic Injustice in AI"
 to be presented at FAccT 2024.
